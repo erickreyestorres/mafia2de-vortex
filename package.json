@@ -1,0 +1,13 @@
+{
+  "name": "vortex-mafia-ii-definitive-edition",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Community Vortex extension for Mafia II: Definitive Edition",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
